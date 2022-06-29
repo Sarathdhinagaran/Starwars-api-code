@@ -1,2 +1,2 @@
 # Starwars-api-code
-Code challenge for Starwars-API
+Code challenge using Starwars-API(swapi)
